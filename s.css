@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(170, 195, 243);
+}
+.b{
+ height:40px;
+ width:110px;
+ font-size:15px;
+ font-weight: bold;
+ border-radius: 10px;
+ background-color: rgb(216, 181, 248);
+}
